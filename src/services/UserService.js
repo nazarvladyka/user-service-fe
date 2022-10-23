@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = process.env.REACT_APP_BE_URL + "/users";
+const USER_API_BASE_URL = "http://userservicebe-env.eba-pwtiypcc.eu-central-1.elasticbeanstalk.com/users";
 
 class UserService {
 
