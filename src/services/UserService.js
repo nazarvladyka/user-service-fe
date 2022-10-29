@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = "http://userservicebe-env.eba-pwtiypcc.eu-central-1.elasticbeanstalk.com/users";
+const USER_API_BASE_URL = "https://69hi7703sb.execute-api.eu-central-1.amazonaws.com/pro/users";
 
 class UserService {
 
