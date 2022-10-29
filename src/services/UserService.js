@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = "https://69hi7703sb.execute-api.eu-central-1.amazonaws.com/pro/users";
+const USER_API_BASE_URL = "https://k9v56ymmy4.execute-api.eu-central-1.amazonaws.com/users";
 
 class UserService {
 
